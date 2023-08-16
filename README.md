@@ -1,4 +1,7 @@
+
 # Algoritmos para a gerâção de listas de exercicios no projeto STIMath
+
+Algorithms to generate list of exercises
 
 ## (1) TRI aplicado nos itens do piloto para o STIMath 
 
